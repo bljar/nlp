@@ -2,3 +2,4 @@ C2_Probabilistic_Models/02_Part_of_Speech_Tagging/data/* filter=lfs diff=lfs mer
 C2_Probabilistic_Models/02_Part_of_Speech_Tagging/support_files/* filter=lfs diff=lfs merge=lfs -text
 C2_Probabilistic_Models/03_Autocomplete/data/en_US.twitter.txt filter=lfs diff=lfs merge=lfs -text
 C2_Probabilistic_Models/04_Word_Embeddings/support_files/* filter=lfs diff=lfs merge=lfs -text
+C2_Probabilistic_Models/04_Word_Embeddings/data/tokenizer/* filter=lfs diff=lfs merge=lfs -text
