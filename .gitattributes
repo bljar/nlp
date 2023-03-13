@@ -14,3 +14,10 @@ C3_Sequence_Models/04_Siamese_Networks/support_files/* filter=lfs diff=lfs merge
 C3_Sequence_Models/04_Siamese_Networks/model.pkl.gz filter=lfs diff=lfs merge=lfs -text
 C3_Sequence_Models/04_Siamese_Networks/data/questions.csv filter=lfs diff=lfs merge=lfs -text
 C3_Sequence_Models/04_Siamese_Networks/nltk_data/* filter=lfs diff=lfs merge=lfs -text
+C4_Attention_Models/01_Neural_Machine_Translation/data/word2int_en.pkl filter=lfs diff=lfs merge=lfs -text
+C4_Attention_Models/01_Neural_Machine_Translation/data/word2int_fr.pkl filter=lfs diff=lfs merge=lfs -text
+C4_Attention_Models/01_Neural_Machine_Translation/data/embeddings_en.npz filter=lfs diff=lfs merge=lfs -text
+C4_Attention_Models/01_Neural_Machine_Translation/data/embeddings_fr.npz filter=lfs diff=lfs merge=lfs -text
+C4_Attention_Models/01_Neural_Machine_Translation/data/wmt19_can.txt filter=lfs diff=lfs merge=lfs -text
+C4_Attention_Models/01_Neural_Machine_Translation/data/wmt19_ref.txt filter=lfs diff=lfs merge=lfs -text
+C4_Attention_Models/01_Neural_Machine_Translation/data/wmt19_src.txt filter=lfs diff=lfs merge=lfs -text
