@@ -22,3 +22,6 @@ C4_Attention_Models/01_Neural_Machine_Translation/data/wmt19_can.txt filter=lfs 
 C4_Attention_Models/01_Neural_Machine_Translation/data/wmt19_ref.txt filter=lfs diff=lfs merge=lfs -text
 C4_Attention_Models/01_Neural_Machine_Translation/data/wmt19_src.txt filter=lfs diff=lfs merge=lfs -text
 C4_Attention_Models/01_Neural_Machine_Translation/model.pkl.gz filter=lfs diff=lfs merge=lfs -text
+C4_Attention_Models/01_Neural_Machine_Translation/test_support_files/i_like_your_shoes_test filter=lfs diff=lfs merge=lfs -text
+C4_Attention_Models/01_Neural_Machine_Translation/test_support_files/generate_sample_mock filter=lfs diff=lfs merge=lfs -text
+C4_Attention_Models/01_Neural_Machine_Translation/test_support_files/i_eat_soup_test filter=lfs diff=lfs merge=lfs -text
